@@ -1,5 +1,6 @@
 uri: "https://rawgit.com/lalten/vimba_camera_rosdep/master/rosdep/empty.tar"
 md5sum: df41600634ca08cb5082877eb64220c9
+
 install-script: |
   #!/bin/bash
   arch="$(uname -m)"
