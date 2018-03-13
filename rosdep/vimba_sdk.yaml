@@ -1,0 +1,4 @@
+vimba:
+  ubuntu:
+    source:
+      uri: "https://rawgit.com/lalten/vimba_camera_rosdep/master/rosdep/vimba_camera.rdmanifest"
