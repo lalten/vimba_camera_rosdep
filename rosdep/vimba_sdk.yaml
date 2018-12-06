@@ -1,4 +1,4 @@
 vimba:
   ubuntu:
     source:
-      uri: "https://rawgit.com/lalten/vimba_camera_rosdep/master/rosdep/vimba_sdk.rdmanifest"
+      uri: "https://cdn.jsdelivr.net/gh/lalten/vimba_camera_rosdep/rosdep/vimba_sdk.rdmanifest"
